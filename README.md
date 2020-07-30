@@ -1,5 +1,7 @@
 # SBSPS-Challenge-1349-Sentiment-Analysis-of-COVID-19-Tweets
 
+REFER TO GUI SCREENSHOTS FOLDER HAVNG A SNEAK OF THE WEB APP.
+
 app.py is the file to run the flask app i.e. a GUI for NLP sentiment prediction model in web app.
 
 tweet_sentiment.py is the main code file where the model is trained
